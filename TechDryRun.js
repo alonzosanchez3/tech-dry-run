@@ -1,7 +1,7 @@
 //Tech Dry Run
 
 var hrr18 = {
-  name: 'Alonzo Sanchez'
+  name: 'Alonzo Sanchez Jr'
 }
 
 
